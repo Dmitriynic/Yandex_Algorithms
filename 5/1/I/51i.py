@@ -1,4 +1,4 @@
-with open('input.txt', 'r') as r:
+with open('input.txt', 'r') as r: 
     n = int(r.readline().strip())
     year = int(r.readline().strip())
     arr = []
